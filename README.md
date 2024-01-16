@@ -27,7 +27,5 @@
 # 📊 GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=royeshmalvankar&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=royeshmalvankar&theme=algolia&hide_border=true)
-
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royeshmalvankar&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
