@@ -25,8 +25,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=royeshmalvankar&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![My Stats](https://github-readme-stats.vercel.app/api?username=royeshmalvankar&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=royeshmalvankar&theme=react&hide_border=false)<br/>
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=royeshmalvankar&theme=algolia&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=royeshmalvankar&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royeshmalvankar&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
