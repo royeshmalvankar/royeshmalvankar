@@ -12,7 +12,7 @@
 
 📧 Email - royeshmalvankar@gmail.com
 
-💼 Portfolio - [MY PORTFOLIO SITE]((https://gleaming-pithivier-bae40e.netlify.app/))
+💼 Portfolio - [MY PORTFOLIO SITE](https://gleaming-pithivier-bae40e.netlify.app/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/royesh-malvankar-59a023276/) 
