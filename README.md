@@ -6,9 +6,15 @@
 
 🚀 I have learned CSS, HTML, JavaScript and Learning React.
 
+🛠️Tools i use for Development Gitbash, Postman, npm, Visual Studio Code
+
 ⚛️ Some technologies that I love to working with includes HTML, CSS, JavaScript.
 
 😃 My interest includes in Website Development & Cloud Computing .
+
+🖥️ I’m looking to collaborate on  awesome projects that can enhance my skills
+
+📊 Intrested in StockMarket Trading And Investing in Bumper Shares
 
 📧 Email - royeshmalvankar@gmail.com
 
@@ -16,6 +22,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/royesh-malvankar-59a023276/) 
+[![GITHUB](https://img.shields.io/badge/Github-12100E?logo=Github&logoColor=white)]((https://github.com/royeshmalvankar))
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
