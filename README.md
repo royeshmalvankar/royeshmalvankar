@@ -21,7 +21,7 @@
 💼 Portfolio - [MY PORTFOLIO SITE](https://gleaming-pithivier-bae40e.netlify.app/)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/royesh-malvankar-59a023276/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/royesh-malvankar-59a023276/)) 
 [![GITHUB](https://img.shields.io/badge/Github-12100E?logo=Github&logoColor=white)]((https://github.com/royeshmalvankar))
 
 # 💻 Tech Stack
